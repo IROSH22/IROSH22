@@ -1,154 +1,165 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Shamal Iroshan</h1>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00F5D4&height=200&section=header&text=SHAMAL%20IROSHAN&fontSize=42&fontColor=E6FFFA&fontAlignY=42&animation=fadeIn&fontFamily=monospace" alt="Header banner: Shamal Iroshan" width="100%"/>
 
-<h3 align="center">Software Developer &amp; Embedded Systems Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%22web+%2B+mobile+%2B+embedded%22+%7D%3B;while+(true)+%7B+build()%3B+ship()%3B+%7D;status%3A+shipping+production-ready+systems" alt="Typing code-style tagline"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shamal-iroshan-rajakaruna-925b73336" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-<a href="https://github.com/IROSH22" target="_blank">
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=IROSH22&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="profile views" />
-</p>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/IROSH22"><img src="https://img.shields.io/badge/GITHUB-00F5D4?style=flat-square&logo=github&logoColor=0D1117" height="28"/></a>
+<a href="https://www.linkedin.com/in/shamal-iroshan-rajakaruna-925b73336"><img src="https://img.shields.io/badge/LINKEDIN-00F5D4?style=flat-square&logo=linkedin&logoColor=0D1117" height="28"/></a>
+<img src="https://komarev.com/ghpvc/?username=IROSH22&style=flat-square&color=00F5D4&label=VISITORS" height="28"/>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<img align="right" height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZobHh1YW9nYm9nZ280ZjNhaW9jNWpreXczM2dueWF4Nmt2YmcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="coding animation" />
-
-<p align="left">
-🔭 I move comfortably between <b>polished user-facing software</b> and <b>low-level embedded hardware</b> — designing interfaces one day, wiring sensors the next.<br><br>
-💻 I build full-stack web &amp; mobile apps, and IoT / embedded systems from the ground up.<br><br>
-🌱 Continuously exploring electronics, IoT, and new corners of the stack.<br><br>
-⚡ I like shipping <b>feature-complete, production-quality builds</b> — real integrations, not prototypes.
-</p>
-
-<br clear="both"/>
-
-<h2 align="center">🛠️ Skills</h2>
-
-<h3 align="left">💻 Languages</h3>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-</div>
-
-<h3 align="left">📱 Mobile &amp; Web</h3>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=expo" height="40" alt="expo logo" />
-</div>
-
-<h3 align="left">🗄️ Backend &amp; Data</h3>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-</div>
-
-<h3 align="left">🔌 Embedded &amp; IoT</h3>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
-</div>
-
-<h3 align="left">🧰 Tools</h3>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 <br/>
 
-<h2 align="center">🧩 Featured Projects</h2>
+## `01` — Who I Am
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>📦 FentonTrack Pro</h3>
-<p>Asset &amp; tool tracking app for engineering teams. Rebuilt from a web app into <b>React Native / Expo</b> with <b>Supabase</b>. QR scanning, role-based auth, PDF export.</p>
-<code>React Native</code> <code>Expo</code> <code>Supabase</code>
+<td width="33%" align="center">
+
+**🧠 Full-Stack**
+<br/>
+<sub>Web &amp; mobile apps built end to end, from UI to backend</sub>
+
 </td>
-<td width="50%" valign="top">
-<h3>🌱 Overgreenhouse</h3>
-<p>Smart greenhouse monitor — <b>Arduino Mega + ESP8266</b> streaming live sensor data to <b>Firebase</b>, with a real-time dashboard, Chart.js visuals, and actuator controls.</p>
-<code>Arduino</code> <code>ESP8266</code> <code>Firebase</code> <code>Chart.js</code>
+<td width="33%" align="center">
+
+**🔩 Embedded**
+<br/>
+<sub>Arduino / ESP8266 systems talking to the cloud in real time</sub>
+
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎓 Internship LMS</h3>
-<p>Full learning management system with role-based access for Admin, Supervisor, and Intern — attendance tracking, quizzes, analytics, printable certificates.</p>
-<code>Web App</code> <code>Role-based Auth</code>
-</td>
-<td width="50%" valign="top">
-<h3>📈 VERTEX·FLOW</h3>
-<p>Web-based order flow trading terminal built on <b>Binance's public WebSocket API</b>, evolving toward professional terminal parity.</p>
-<code>WebSockets</code> <code>Real-time Data</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧾 <a href="https://github.com/IROSH22/SaaS-application-Invoice-generator-">SaaS Invoice Generator</a></h3>
-<p>A SaaS-style invoice generation application.</p>
-<code>JavaScript</code>
-</td>
-<td width="50%" valign="top">
-<h3>🤖 <a href="https://github.com/IROSH22/Machine_Learning_Model_Deployment">ML Model Deployment</a></h3>
-<p>Deploying machine learning models with <b>Python</b> and <b>Streamlit</b>.</p>
-<code>Python</code> <code>Streamlit</code>
+<td width="33%" align="center">
+
+**🎯 Production-First**
+<br/>
+<sub>Feature-complete builds, not throwaway prototypes</sub>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<h2 align="center">⚙️ GitHub Statistics</h2>
+## `02` — Stack
 
 <div align="center">
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=IROSH22&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
-<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IROSH22&theme=radical" alt="Top Languages" />
-<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IROSH22&theme=radical" alt="Most Commit Language" />
+
+`Java` `TypeScript` `JavaScript` `Python` `C++`
+&nbsp;•&nbsp;
+`React Native` `Expo` `HTML5` `CSS3`
+&nbsp;•&nbsp;
+`Firebase` `Supabase`
+&nbsp;•&nbsp;
+`Arduino` `ESP8266`
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp,react,firebase,supabase,arduino,git&theme=dark&perline=10" alt="Technology icons"/>
+
 </div>
 
-<div align="center">
-<img width="99%" src="https://streak-stats.demolab.com/?user=IROSH22&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</div>
+<br/>
+
+## `03` — Project Spotlight
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📦 FentonTrack Pro**
+<br/>
+Asset &amp; tool tracking app for engineering teams — rebuilt from a web app into React Native / Expo with Supabase. QR scanning, role-based auth, PDF export.
+<br/><br/>
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=flat-square&logo=react) ![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat-square&logo=supabase)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Overgreenhouse**
+<br/>
+Arduino Mega + ESP8266 smart greenhouse monitor streaming live sensor data to Firebase, paired with a real-time dashboard and actuator controls.
+<br/><br/>
+![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=arduino) ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Internship LMS**
+<br/>
+Role-based learning management system (Admin / Supervisor / Intern) with attendance tracking, quizzes, analytics, and printable certificates.
+
+</td>
+<td width="50%" valign="top">
+
+**📈 VERTEX·FLOW**
+<br/>
+Web-based order flow trading terminal on Binance's public WebSocket API, evolving toward professional terminal parity.
+<br/><br/>
+![WebSocket](https://img.shields.io/badge/-WebSockets-0D1117?style=flat-square&logo=socketdotio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧾 [SaaS Invoice Generator](https://github.com/IROSH22/SaaS-application-Invoice-generator-)**
+<br/>
+A SaaS-style invoice generation application.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 [ML Model Deployment](https://github.com/IROSH22/Machine_Learning_Model_Deployment)**
+<br/>
+Machine learning models deployed with Python and Streamlit.
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `04` — Contribution Activity
 
 <div align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=IROSH22&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+
+<!--
+  One-time setup to activate this animation:
+  1. Create a repo named IROSH22 (your profile repo) if not done already
+  2. Add a GitHub Actions workflow using platane/snk@v3 (see instructions below)
+  3. It auto-generates and commits this SVG on a schedule
+-->
+<img src="https://raw.githubusercontent.com/IROSH22/IROSH22/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+
+</div>
+
+<br/>
+
+## `05` — GitHub Insights
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=IROSH22&show_icons=true&theme=graywhite&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6FFFA" alt="GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IROSH22&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6FFFA" alt="Top languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=IROSH22&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="Contribution streak" width="90%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5D4,100:0D1117&height=100&section=footer" alt="" width="100%"/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+**Open to interesting projects — reach out anytime.**
+
 </div>
