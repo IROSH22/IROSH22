@@ -14,6 +14,14 @@
 
 <br/>
 
+## About Me
+
+I'm a developer who works comfortably across the full stack — from polished, production-ready web and mobile interfaces down to the embedded hardware that powers them. My projects tend to span both worlds: a React Native app talking to Supabase on one end, an Arduino relaying live sensor data to Firebase on the other.
+
+I care about shipping complete, working systems rather than throwaway demos, and I'm continually exploring new corners of electronics, IoT, and modern app development.
+
+<br/>
+
 ## Overview
 
 <table>
@@ -137,9 +145,9 @@ Machine learning models deployed using Python and Streamlit.
 <img src="https://github-stats-extended.vercel.app/api?username=IROSH22&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub stats" height="165"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IROSH22&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0" alt="Top languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=IROSH22&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution streak" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=IROSH22&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=94A3B8" alt="Contribution streak" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IROSH22&bg_color=0B1120&color=38BDF8&line=38BDF8&point=E2E8F0&hide_border=true&area=true" alt="Contribution activity graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IROSH22&bg_color=0B1120&color=38BDF8&line=38BDF8&point=E2E8F0&title_color=38BDF8&text_color=E2E8F0&hide_border=true&area=true" alt="Contribution activity graph" width="90%"/>
 
 </div>
 
