@@ -1,70 +1,84 @@
-<div align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Shamal Iroshan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6EC7&height=220&section=header&text=Shamal%20Iroshan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Embedded%20Systems%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="Header banner reading Shamal Iroshan — Software and Embedded Systems Developer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-<a href="https://github.com/IROSH22">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+%26+mobile+experiences;Designing+embedded+%2F+IoT+systems+that+work;React+Native+%C2%B7+Firebase+%C2%B7+Supabase+%C2%B7+Arduino;Turning+ideas+into+production-ready+products" alt="Typing animation of rotating taglines"/>
+<h3 align="center">Software Developer &amp; Embedded Systems Engineer</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shamal-iroshan-rajakaruna-925b73336" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
+<a href="https://github.com/IROSH22" target="_blank">
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=IROSH22&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="profile views" />
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamal-iroshan-rajakaruna-925b73336)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IROSH22)
-[![Profile Views](https://komarev.com/ghpvc/?username=IROSH22&style=for-the-badge&color=FF6EC7&label=PROFILE+VIEWS)](https://github.com/IROSH22)
+<h2 align="center">👨‍💻 About Me</h2>
 
+<img align="right" height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZobHh1YW9nYm9nZ280ZjNhaW9jNWpreXczM2dueWF4Nmt2YmcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="coding animation" />
+
+<p align="left">
+🔭 I move comfortably between <b>polished user-facing software</b> and <b>low-level embedded hardware</b> — designing interfaces one day, wiring sensors the next.<br><br>
+💻 I build full-stack web &amp; mobile apps, and IoT / embedded systems from the ground up.<br><br>
+🌱 Continuously exploring electronics, IoT, and new corners of the stack.<br><br>
+⚡ I like shipping <b>feature-complete, production-quality builds</b> — real integrations, not prototypes.
+</p>
+
+<br clear="both"/>
+
+<h2 align="center">🛠️ Skills</h2>
+
+<h3 align="left">💻 Languages</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:FF6EC7&height=3&width=100%" alt=""/>
-
-## 👋 About Me
-
-I'm a developer who moves comfortably between <b>polished user-facing software</b> and <b>low-level embedded hardware</b> — designing interfaces one day and wiring sensors the next.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🔭 Focus areas</h3>
-<ul>
-<li>Full-stack web &amp; mobile applications</li>
-<li>IoT / embedded systems (Arduino, ESP8266)</li>
-<li>Production-quality, animated UI/UX</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>⚡ How I work</h3>
-<ul>
-<li>Ship feature-complete, real integrations — not prototypes</li>
-<li>Comfortable across the entire stack, hardware to hosting</li>
-<li>Continuously exploring electronics &amp; IoT</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:FF6EC7&height=3&width=100%" alt=""/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp,html,css,react,firebase,supabase,arduino,git,figma&theme=dark" alt="Row of technology icons: Java, TypeScript, JavaScript, Python, C++, HTML, CSS, React, Firebase, Supabase, Arduino, Git, Figma"/>
-
+<h3 align="left">📱 Mobile &amp; Web</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=expo" height="40" alt="expo logo" />
 </div>
 
-<div align="center">
-
-| Layer | Tools |
-|---|---|
-| **Languages** | Java · TypeScript · JavaScript · Python · C++ |
-| **Mobile & Web** | React Native · Expo · HTML5 · CSS3 |
-| **Backend & Data** | Firebase · Supabase |
-| **Embedded / IoT** | Arduino Mega · ESP8266 · sensor networks |
-
+<h3 align="left">🗄️ Backend &amp; Data</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:FF6EC7&height=3&width=100%" alt=""/>
+<h3 align="left">🔌 Embedded &amp; IoT</h3>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
+</div>
 
-## 🧩 Featured Projects
+<h3 align="left">🧰 Tools</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</div>
+
+<br/>
+
+<h2 align="center">🧩 Featured Projects</h2>
 
 <table>
 <tr>
@@ -105,32 +119,36 @@ I'm a developer who moves comfortably between <b>polished user-facing software</
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:FF6EC7&height=3&width=100%" alt=""/>
+<br/>
 
-## 📊 GitHub Stats
+<h2 align="center">⚙️ GitHub Statistics</h2>
 
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=IROSH22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shamal's GitHub stats summary" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IROSH22&layout=compact&theme=radical&hide_border=true" alt="Most used languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=IROSH22&theme=radical&hide_border=true" alt="Current GitHub contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IROSH22&theme=redical&hide_border=true" alt="Contribution activity graph over the past year" width="90%"/>
-
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=IROSH22&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IROSH22&theme=radical" alt="Top Languages" />
+<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IROSH22&theme=radical" alt="Most Commit Language" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:FF6EC7&height=3&width=100%" alt=""/>
-
-## 📫 Let's Connect
+<div align="center">
+<img width="99%" src="https://streak-stats.demolab.com/?user=IROSH22&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</div>
 
 <div align="center">
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=IROSH22&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
-I'm always open to interesting projects — reach out on either platform below.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamal-iroshan-rajakaruna-925b73336)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IROSH22)
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:2575FC,100:6A11CB&height=120&section=footer" alt="" width="100%"/>
+<br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
